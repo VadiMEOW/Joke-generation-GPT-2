@@ -3,4 +3,5 @@ transformers
 python-dotenv
 python-telegram-bot
 nest-asyncio
-
+pandas
+datasets

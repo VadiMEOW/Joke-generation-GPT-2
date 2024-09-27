@@ -38,7 +38,7 @@ python bot.py
 docker build -t joke-bot .
 docker run -d --env-file=.env joke-bot
 ```
-##Датасет
+## Датасет
 Модель была дообучена на датасете jokes.csv, содержащем 129 383 русских анекдота с платформы Kaggle.
 
 Ссылка на датасет: https://www.kaggle.com/datasets/konstantinalbul/russian-jokes
